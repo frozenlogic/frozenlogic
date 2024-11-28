@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">Watermelon Suika Game (Steam PC/Mac)</p>
+<p align="left">Watermelon Suika Game (Steam PC/Mac)<br>Roles: Producer, Game Designer and programmer.<br>Engine: Unity</p>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">Dreamscape - Unity/C#/WebGL/iOS/Android<br>Educational game made on Unity and running on WebGL</p>
+<p align="left">Dreamscape - Web/iOS/Android<br>Educational game made on Unity and running on WebGL<br>Roles: Lead Game Developer<br>Engine: Unity</p>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<p align="left">Dreamseeker Drift - Unity/C#/WebGL/iOS/Android<br>Educational Game made on Unity</p>
+<p align="left">Dreamseeker Drift - Web/iOS/Android<br>Educational Game made on Unity<br>Roles: Producer, Game Designer and Lead Game Developer<br>Engine: Unity</p>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<p align="left">Soccer Penalty Kicks (iOS/Android)</p>
+<p align="left">Soccer Penalty Kicks (iOS/Android) <br>Roles: Producer, Game Designer and programmer.<br>Engine: Unity</p>
 
 ###
 
@@ -80,7 +80,7 @@
 
 ###
 
-<p align="left">Pet Playground (iOS/Android)</p>
+<p align="left">Pet Playground (iOS/Android)<br>Roles: Producer<br>Engine: Unity</p>
 
 ###
 
@@ -90,7 +90,7 @@
 
 ###
 
-<p align="left">Soccer Free Kicks 2 (iOS/Android)</p>
+<p align="left">Soccer Free Kicks 2 (iOS/Android) <br>Roles: Producer, Game Designer and programmer.<br>Engine: Unity</p>
 
 ###
 
@@ -100,7 +100,7 @@
 
 ###
 
-<p align="left">Amazing Maze 3D - (iOS/Android)</p>
+<p align="left">Amazing Maze 3D - (iOS/Android)<br>Roles: Producer<br>Engine: Unity</p>
 
 ###
 
@@ -110,7 +110,7 @@
 
 ###
 
-<p align="left">Robot DIR (iOS/Android)</p>
+<p align="left">Robot DIR (iOS/Android)<br>Roles: Producer<br>Engine: Unity</p>
 
 ###
 
@@ -120,7 +120,7 @@
 
 ###
 
-<p align="left">ME - iOS/Android</p>
+<p align="left">ME - iOS/Android<br>Roles: Producer<br>Engine: Unity</p>
 
 ###
 
@@ -130,11 +130,11 @@
 
 ###
 
-<p align="left">Soccer Free Kicks (iOS/Android)</p>
+<p align="left">Soccer Free Kicks (iOS/Android) <br>Roles: Producer, Game Designer and programmer.<br>Engine: Unity</p>
 
 ###
 
-<p align="left">Swamp Adventure (iOS/Android)</p>
+<p align="left">Swamp Adventure (iOS/Android) <br>Roles: Producer.<br>Engine: Unity</p>
 
 ###
 
@@ -152,7 +152,7 @@
 
 ###
 
-<p align="left">Freekscape: Escape From Hell - Vicious Engine/C++/Playstation Portable (PSP)</p>
+<p align="left">Freekscape: Escape From Hell - Playstation Portable (PSP)<br>Roles: Game Developer.<br>Engine: Vicious Engine/C++</p>
 
 ###
 
@@ -162,7 +162,7 @@
 
 ###
 
-<p align="left">Galactic Bowling (PC-Steam)</p>
+<p align="left">Galactic Bowling (PC-Steam)<br>Role: Game Developer<br>Engine: Beyond Virtual</p>
 
 ###
 

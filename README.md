@@ -1,8 +1,8 @@
-<h1 align="left">Lead Game Developer</h1>
+<h1 align="left">Unity Game Developer | 15+ Years Experience | Game Design & Production Expert</h1>
 
 ###
 
-<p align="left">My name is Gustavo and I'm a Game Developer from Brazil</p>
+<p align="left">My name is Gustavo and I'm an experienced Game Developer from Brazil</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Lead Game Developer with more than 15 years of experience.<br><br>✨ Creating bugs since 2005<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">With over 15 years in game development, I specialize in Unity and C# for mobile, console, and PC platforms. I've led projects from concept to release, optimized game performance, and improved player retention. My skills include advanced gameplay implementation, multiplayer mechanics, and AI behavior. As a Lead Developer, I thrive in collaborative environments, using Agile methodologies to keep projects on track. Let’s bring your game vision to life with polished, engaging player experiences.</p>
 
 ###
 
@@ -33,6 +33,22 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
+
+###
+
+<h2 align="left">Projects</h2>
+
+###
+
+<p align="left">Dreamscape - Unity/C#/WebGL/iOS/Android<br>Educational game made on Unity and running on WebGL</p>
+
+###
+
+<p align="left">Dreamseeker Drift - Unity/C#/WebGL/iOS/Android<br>Educational Game made on Unity</p>
+
+###
+
+<p align="left">Freekscape: Escape From Hell - Vicious Engine/C++/Playstation Portable (PSP)</p>
 
 ###
 <!--

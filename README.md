@@ -1,4 +1,4 @@
-<h1 align="left">Unity Game Developer | 15+ Years Experience | Game Design & Production Expert</h1>
+<h1 align="left">Unity Game Developer | 15+ Years Experience | Game Development & Game Production Expert</h1>
 
 ###
 
@@ -7,6 +7,7 @@
 ###
 
 <p align="left">My name is Gustavo and I'm an experienced Game Developer from Brazil</p>
+<a href="https://www.dropbox.com/scl/fi/k0drinsck1lqpthtsz3sn/Gustavo-Boni-Resume-2025-Rev.02.pdf?rlkey=fcrrlmis5eh7e2xo7j2w58exx&dl=0">Download my resume here</a>
 
 ###
 

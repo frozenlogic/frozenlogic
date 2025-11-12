@@ -2,6 +2,19 @@
 
 ###
 
+<p align="left">
+  🎮 Unity Game Developer & Producer with 15+ years creating games for Steam, console, and mobile. 
+  I lead teams, design systems, and code engaging experiences that reach millions of players worldwide.
+</p>
+
+<h2 align="left">Key Skills</h2>
+<ul align="left">
+  <li>15+ years in game development across PC, console, and mobile</li>
+  <li>Expert in Unity, C#, and gameplay systems</li>
+  <li>Strong background in game production and leadership</li>
+  <li>Experience with multiplayer, AI, and performance optimization</li>
+</ul>
+
 <h2 align="left">About me</h2>
 
 ###
@@ -11,7 +24,9 @@
 
 ###
 
-<p align="left">With over 15 years in game development, I specialize in Unity and C# for mobile, console, and PC platforms. I've led projects from concept to release, optimized game performance, and improved player retention. My skills include advanced gameplay implementation, multiplayer mechanics, and AI behavior. As a Lead Developer, I thrive in collaborative environments, using Agile methodologies to keep projects on track. Let’s bring your game vision to life with polished, engaging player experiences.</p>
+<p align="left">I'm Gustavo, a Unity Game Developer and Producer from Brazil with 15+ years of experience crafting engaging games for Steam, console, and mobile platforms. 
+I love transforming ideas into polished player experiences, from gameplay design and AI behavior to performance optimization and production management.
+I’ve led multidisciplinary teams using Agile workflows, ensuring games launch on time and exceed expectations.</p>
 
 ###
 
@@ -34,7 +49,29 @@
 
 ###
 
-<p align="left">My Tiny Garden (Steam PC)<br>Roles: Producer, Game Designer and Unity Game Developer<br>Engine: Unity</p>
+<p align="left">Cozy Garden (Steam PC)<br>
+Roles: Producer, Game Designer and Unity Game Developer<br>
+A cozy farming sim where players grow crops and care for creatures<br>
+Engine: Unity<br>
+Metrics: Featured in Cozy Quest 2025 Festival<br>
+<a href="https://store.steampowered.com/app/3161280">Steam Page</a>
+</p>
+
+###
+
+<div align="left">
+  <img height="200" src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3161280/ss_bbfc9923390c4202229d1a567b018d488313bd3e.1920x1080.jpg?t=1762634002"  />
+</div>
+
+###
+
+<p align="left">My Tiny Garden (Steam PC)<br>
+Roles: Producer, Game Designer and Unity Game Developer<br>
+A cozy idle game where you grow your garden.<br>
+Engine: Unity<br>
+Metrics: Featured in Cozy Quest 2025 Festival<br>
+<a href="https://store.steampowered.com/app/3719580">Steam Page</a>
+</p>
 
 ###
 
@@ -44,7 +81,11 @@
 
 ###
 
-<p align="left">Tiny Vending Machines (Steam PC)<br>Roles: Producer, Game Designer and Unity Game Developer<br>Engine: Unity</p>
+<p align="left">Tiny Vending Machines (Steam PC)<br>
+Roles: Producer, Game Designer and Unity Game Developer<br>
+Engine: Unity<br>
+<a href="https://store.steampowered.com/app/3595460">Steam Page</a>
+</p>
 
 ###
 
@@ -54,7 +95,11 @@
 
 ###
 
-<p align="left">Watermelon Suika Game (Steam PC/Mac)<br>Roles: Producer, Game Designer and Unity Game Developer.<br>Engine: Unity</p>
+<p align="left">Watermelon Suika Game (Steam PC/Mac)<br>
+Roles: Producer, Game Designer and Unity Game Developer.<br>
+Engine: Unity<br>
+<a href="https://store.steampowered.com/app/2722740">Steam Page</a>
+</p>
 
 ###
 
@@ -64,7 +109,15 @@
 
 ###
 
-<p align="left">Dreamscape - Web/iOS/Android<br>Educational game made on Unity and running on WebGL<br>Roles: Lead Game Developer<br>Engine: Unity</p>
+<p align="left">Dreamscape - Web/iOS/Android<br>
+Educational game made on Unity and running on WebGL<br>
+Roles: Lead Game Developer<br>
+Engine: Unity<br>
+Metrics: Top 10 in Educational Games<br>
+<a href="https://dreamscape.shoelacegaming.com/">Web</a><br>
+<a href="https://apps.apple.com/us/app/dreamscapeedu/id1435417296">App Store</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.SquigglePark.DreamScape&pcampaignid=web_share">Google Play</a>
+</p>
 
 ###
 
@@ -74,7 +127,15 @@
 
 ###
 
-<p align="left">Dreamseeker Drift - Web/iOS/Android<br>Educational Game made on Unity<br>Roles: Producer, Game Designer and Lead Game Developer<br>Engine: Unity</p>
+<p align="left">Dreamseeker Drift - Web/iOS/Android<br>
+Educational Game made on Unity<br>
+Roles: Producer, Game Designer and Lead Game Developer<br>
+Engine: Unity<br>
+Metrics: Top 10 in Educational Games<br>
+<a href="https://drift.shoelacegaming.com/">Web</a><br>
+<a href="https://apps.apple.com/us/app/dreamseeker-drift/id6448925217">App Store</a><br>
+<a href="https://play.google.com/store/apps/details?id=com.shoelacelearning.drift&pcampaignid=web_share">Google Play</a>
+</p>
 
 ###
 
@@ -84,12 +145,32 @@
 
 ###
 
-<p align="left">Soccer Penalty Kicks (iOS/Android) <br>Roles: Producer, Game Designer and programmer.<br>Engine: Unity</p>
+<p align="left">Soccer Penalty Kicks (iOS/Android)<br>
+Roles: Producer, Game Designer and Unity Developer.<br>
+Engine: Unity<br>
+A casual football (soccer) game<br>
+Metrics: Over 1M+ Downloads<br>
+<a href="https://play.google.com/store/apps/details?id=com.frozenlogicstudios.soccerpenaltykicks">Google Play</a>
+</p>
 
 ###
 
 <div align="left">
   <img height="200" src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f0/bc/15/f0bc150d-afc2-716d-cc9f-a0a95ff9299e/pr_source.png/800x400bb.png"  />
+</div>
+
+###
+
+<p align="left">Soccer Free Kicks 2 (iOS/Android)<br>
+Roles: Producer, Game Designer and Unity Developer.<br>
+Engine: Unity<br>
+Metrics: Over 400k+ Downloads<br>
+<a href="https://play.google.com/store/apps/details?id=com.frozenlogicstudios.soccerfreekicks2">Google Play</a></p>
+
+###
+
+<div align="left">
+  <img height="200" src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/a0/41/9ca041b6-1b1f-538f-d43b-9a01d1b15b38/pr_source.png/0x0ss.png"  />
 </div>
 
 ###
@@ -100,16 +181,6 @@
 
 <div align="left">
   <img height="200" src="https://is2-ssl.mzstatic.com/image/thumb/Purple4/v4/0c/44/c9/0c44c9d1-8969-8e77-1c41-1a788762e488/mzl.znplpunu.png/0x0ss.png"  />
-</div>
-
-###
-
-<p align="left">Soccer Free Kicks 2 (iOS/Android) <br>Roles: Producer, Game Designer and programmer.<br>Engine: Unity</p>
-
-###
-
-<div align="left">
-  <img height="200" src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/a0/41/9ca041b6-1b1f-538f-d43b-9a01d1b15b38/pr_source.png/0x0ss.png"  />
 </div>
 
 ###
@@ -158,14 +229,6 @@
 
 ###
 
-<p align="left">Go Go Goat! (iOS/Android)</p>
-
-###
-
-<p align="left">Origin Mobile (iOS)</p>
-
-###
-
 <p align="left">Freekscape: Escape From Hell - Playstation Portable (PSP)<br>Roles: Game Developer.<br>Engine: Vicious Engine/C++</p>
 
 ###
@@ -176,7 +239,9 @@
 
 ###
 
-<p align="left">Galactic Bowling (PC-Steam)<br>Role: Game Developer<br>Engine: Beyond Virtual</p>
+<p align="left">Galactic Bowling (PC-Steam)<br>Role: Game Developer<br>Engine: Beyond Virtual<br>
+<a href="https://store.steampowered.com/app/20200/Galactic_Bowling/">Steam</a>
+</p>
 
 ###
 

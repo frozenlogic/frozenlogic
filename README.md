@@ -1,13 +1,18 @@
-<h1 align="left">Unity Game Developer | 15+ Years Experience | Game Development & Game Production Expert</h1>
+<h1 align="left">🎮 Unity Game Developer & Producer | 15+ Years Experience | Shipped 20+ Games on Steam, Console & Mobile</h1>
 
 ###
 
 <p align="left">
-  🎮 Unity Game Developer & Producer with 15+ years creating games for Steam, console, and mobile. 
-  I lead teams, design systems, and code engaging experiences that reach millions of players worldwide.
+  Passionate about crafting polished, engaging player experiences. I lead teams, design systems, and develop games that connect with millions of players worldwide across Steam, console, and mobile.
 </p>
 
 <h2 align="left">Key Skills</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-Expert-black?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-Advanced-green?logo=csharp" />
+  <img src="https://img.shields.io/badge/Agile-Producer-blue" />
+</p>
+
 <ul align="left">
   <li>15+ years in game development across PC, console, and mobile</li>
   <li>Expert in Unity, C#, and gameplay systems</li>
@@ -24,9 +29,13 @@
 
 ###
 
-<p align="left">I'm Gustavo, a Unity Game Developer and Producer from Brazil with 15+ years of experience crafting engaging games for Steam, console, and mobile platforms. 
+<p align="left">I'm a Unity Game Developer and Producer from Brazil with 15+ years of experience crafting engaging games for Steam, console, and mobile platforms. 
 I love transforming ideas into polished player experiences, from gameplay design and AI behavior to performance optimization and production management.
-I’ve led multidisciplinary teams using Agile workflows, ensuring games launch on time and exceed expectations.</p>
+I’ve led multidisciplinary teams using Agile workflows, ensuring games launch on time and exceed expectations.
+
+When I’m not building games, I love prototyping new ideas and exploring design tools. I'm always learning how to make player experiences more meaningful.
+
+</p>
 
 ###
 
@@ -62,6 +71,7 @@ Metrics: Featured in Cozy Quest 2025 Festival<br>
 <div align="left">
   <img height="200" src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3161280/ss_bbfc9923390c4202229d1a567b018d488313bd3e.1920x1080.jpg?t=1762634002"  />
 </div>
+<hr>
 
 ###
 
@@ -78,6 +88,7 @@ Metrics: Featured in Cozy Quest 2025 Festival<br>
 <div align="left">
   <img height="200" src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3719580/faa06f848cf9d0cc918951c35894b634a5b7d4db/ss_faa06f848cf9d0cc918951c35894b634a5b7d4db.1920x1080.jpg?t=1762461272"  />
 </div>
+<hr>
 
 ###
 
@@ -92,6 +103,7 @@ Engine: Unity<br>
 <div align="left">
   <img height="200" src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3595460/6eb432ddd24e9719cac8eb8c3c36820bd9529ad9/ss_6eb432ddd24e9719cac8eb8c3c36820bd9529ad9.1920x1080.jpg?t=1760093562"  />
 </div>
+<hr>
 
 ###
 
@@ -106,6 +118,7 @@ Engine: Unity<br>
 <div align="left">
   <img height="200" src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2722740/ss_ecce380febf0e7dc1c3bf59dbcdeca3d4a81645a.jpg"  />
 </div>
+<hr>
 
 ###
 
@@ -124,6 +137,7 @@ Metrics: Top 10 in Educational Games<br>
 <div align="left">
   <img height="200" src="https://frozenlogic-portfolio.s3.us-east-1.amazonaws.com/dreamscape.png"  />
 </div>
+<hr>
 
 ###
 
@@ -142,6 +156,7 @@ Metrics: Top 10 in Educational Games<br>
 <div align="left">
   <img height="200" src="https://frozenlogic-portfolio.s3.us-east-1.amazonaws.com/drift.png"  />
 </div>
+<hr>
 
 ###
 
@@ -158,6 +173,7 @@ Metrics: Over 1M+ Downloads<br>
 <div align="left">
   <img height="200" src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f0/bc/15/f0bc150d-afc2-716d-cc9f-a0a95ff9299e/pr_source.png/800x400bb.png"  />
 </div>
+<hr>
 
 ###
 
@@ -172,6 +188,7 @@ Metrics: Over 400k+ Downloads<br>
 <div align="left">
   <img height="200" src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/a0/41/9ca041b6-1b1f-538f-d43b-9a01d1b15b38/pr_source.png/0x0ss.png"  />
 </div>
+<hr>
 
 ###
 
@@ -182,6 +199,7 @@ Metrics: Over 400k+ Downloads<br>
 <div align="left">
   <img height="200" src="https://is2-ssl.mzstatic.com/image/thumb/Purple4/v4/0c/44/c9/0c44c9d1-8969-8e77-1c41-1a788762e488/mzl.znplpunu.png/0x0ss.png"  />
 </div>
+<hr>
 
 ###
 
@@ -192,6 +210,7 @@ Metrics: Over 400k+ Downloads<br>
 <div align="left">
   <img height="200" src="https://is2-ssl.mzstatic.com/image/thumb/Purple/v4/63/f4/c7/63f4c758-9cdf-e425-784a-1a1948ba0dc7/mzl.epiuoxjp.png/0x0ss.png"  />
 </div>
+<hr>
 
 ###
 
@@ -202,6 +221,7 @@ Metrics: Over 400k+ Downloads<br>
 <div align="left">
   <img height="200" src="https://is2-ssl.mzstatic.com/image/thumb/Purple/v4/89/cc/8a/89cc8a87-b595-769e-e011-69b5e5a6b9df/mzl.tzqgmnft.png/0x0ss.png"  />
 </div>
+<hr>
 
 ###
 
@@ -212,10 +232,12 @@ Metrics: Over 400k+ Downloads<br>
 <div align="left">
   <img height="200" src="https://is2-ssl.mzstatic.com/image/thumb/Purple49/v4/4b/23/82/4b23825f-fdd9-0a69-f8a1-7b28b05b9e31/pr_source.jpg/0x0ss.png"  />
 </div>
+<hr>
 
 ###
 
 <p align="left">Soccer Free Kicks (iOS/Android) <br>Roles: Producer, Game Designer and programmer.<br>Engine: Unity</p>
+<hr>
 
 ###
 
@@ -226,6 +248,7 @@ Metrics: Over 400k+ Downloads<br>
 <div align="left">
   <img height="200" src="https://is2-ssl.mzstatic.com/image/thumb/Purple/v4/49/c1/d9/49c1d92e-3f94-1d6b-5bd1-61931498463c/mzl.fddalsgb.png/0x0ss.png"  />
 </div>
+<hr>
 
 ###
 
@@ -236,6 +259,7 @@ Metrics: Over 400k+ Downloads<br>
 <div align="left">
   <img height="200" src="https://pspmedia.ign.com/psp/image/article/108/1083139/inline_1271111324.jpg?fit=bounds&width=1280&height=720"  />
 </div>
+<hr>
 
 ###
 

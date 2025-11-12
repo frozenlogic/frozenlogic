@@ -60,8 +60,6 @@ When I’m not building games, I love prototyping new ideas and exploring design
 
 <h2 align="left">Projects</h2>
 
----
-
 <p align="left"><b>Cozy Garden (Steam PC)</b><br>
 Roles: Producer, Game Designer and Unity Game Developer<br>
 A cozy farming sim where players grow crops and care for creatures.<br>
@@ -148,14 +146,91 @@ Engine: Unity<br>
 
 <h3 align="left">Earlier Mobile Titles</h3>
 
-<p align="left">
-Includes hits like <b>Soccer Penalty Kicks</b> (1M+ downloads), <b>Soccer Free Kicks 2</b> (400K+ downloads), and <b>Pet Playground</b>.<br>
-Roles: Producer, Game Designer and Programmer<br>
-Engine: Unity
+<p align="left"><b>Soccer Penalty Kicks (iOS/Android)</b><br>
+Roles: Producer, Game Designer and Unity Developer<br>
+A casual football (soccer) game.<br>
+Metrics: 1M+ Downloads<br>
+Engine: Unity<br>
+<a href="https://play.google.com/store/apps/details?id=com.frozenlogicstudios.soccerpenaltykicks">Google Play</a>
 </p>
 
 <div align="left">
   <img height="200" src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f0/bc/15/f0bc150d-afc2-716d-cc9f-a0a95ff9299e/pr_source.png/800x400bb.png" />
+</div>
+
+###
+
+<p align="left"><b>Soccer Free Kicks 2 (iOS/Android)</b><br>
+Roles: Producer, Game Designer and Unity Developer<br>
+Metrics: 400K+ Downloads<br>
+Engine: Unity<br>
+<a href="https://play.google.com/store/apps/details?id=com.frozenlogicstudios.soccerfreekicks2">Google Play</a>
+</p>
+
+<div align="left">
+  <img height="200" src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/a0/41/9ca041b6-1b1f-538f-d43b-9a01d1b15b38/pr_source.png/0x0ss.png" />
+</div>
+
+###
+
+<p align="left"><b>Pet Playground (iOS/Android)</b><br>
+Roles: Producer<br>
+Engine: Unity
+</p>
+
+<div align="left">
+  <img height="200" src="https://is2-ssl.mzstatic.com/image/thumb/Purple4/v4/0c/44/c9/0c44c9d1-8969-8e77-1c41-1a788762e488/mzl.znplpunu.png/0x0ss.png" />
+</div>
+
+###
+
+<p align="left"><b>Amazing Maze 3D (iOS/Android)</b><br>
+Roles: Producer<br>
+Engine: Unity
+</p>
+
+<div align="left">
+  <img height="200" src="https://is2-ssl.mzstatic.com/image/thumb/Purple/v4/63/f4/c7/63f4c758-9cdf-e425-784a-1a1948ba0dc7/mzl.epiuoxjp.png/0x0ss.png" />
+</div>
+
+###
+
+<p align="left"><b>Robot DIR (iOS/Android)</b><br>
+Roles: Producer<br>
+Engine: Unity
+</p>
+
+<div align="left">
+  <img height="200" src="https://is2-ssl.mzstatic.com/image/thumb/Purple/v4/89/cc/8a/89cc8a87-b595-769e-e011-69b5e5a6b9df/mzl.tzqgmnft.png/0x0ss.png" />
+</div>
+
+###
+
+<p align="left"><b>ME (iOS/Android)</b><br>
+Roles: Producer<br>
+Engine: Unity
+</p>
+
+<div align="left">
+  <img height="200" src="https://is2-ssl.mzstatic.com/image/thumb/Purple49/v4/4b/23/82/4b23825f-fdd9-0a69-f8a1-7b28b05b9e31/pr_source.jpg/0x0ss.png" />
+</div>
+
+###
+
+<p align="left"><b>Soccer Free Kicks (iOS/Android)</b><br>
+Roles: Producer, Game Designer and Programmer<br>
+Engine: Unity
+</p>
+
+###
+
+<p align="left"><b>Swamp Adventure (iOS/Android)</b><br>
+Roles: Producer<br>
+Engine: Unity
+</p>
+
+<div align="left">
+  <img height="200" src="https://is2-ssl.mzstatic.com/image/thumb/Purple/v4/49/c1/d9/49c1d92e-3f94-1d6b-5bd1-61931498463c/mzl.fddalsgb.png/0x0ss.png" />
 </div>
 
 <hr style="margin: 30px 0;">
@@ -187,13 +262,14 @@ Engine: Beyond Virtual<br>
 <h2 align="left">📫 Contact</h2>
 
 <p align="left">
-  <a href="mailto:gustavoboni@gmail.com">gustavoboni@gmail.com</a><br>
-  <a href="https://www.linkedin.com/in/gustavo-boni/">LinkedIn</a> |
-  <a href="https://gustavoboni.com">Portfolio Website</a>
+  <a href="mailto:gustavo.boni@gmail.com">gustavo.boni@gmail.com</a><br>
+  <a href="https://www.linkedin.com/in/gustavo-boni/">LinkedIn</a>
 </p>
 
 ---
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=frozenlogic&show_icons=true&theme=dark" height="160" />
+</p>
+<p><img src="https://komarev.com/ghpvc/?username=frozenlogic&label=Profile%20views&color=0e75b6&style=flat" />
 </p>

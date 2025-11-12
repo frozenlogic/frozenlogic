@@ -34,7 +34,17 @@
 
 ###
 
-<p align="left">Watermelon Suika Game (Steam PC/Mac)<br>Roles: Producer, Game Designer and programmer.<br>Engine: Unity</p>
+<p align="left">Tiny Vending Machines (Steam PC)<br>Roles: Producer, Game Designer and Unity Game Developer<br>Engine: Unity</p>
+
+###
+
+<div align="left">
+  <img height="200" src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2722740/ss_ecce380febf0e7dc1c3bf59dbcdeca3d4a81645a.jpg"  />
+</div>
+
+###
+
+<p align="left">Watermelon Suika Game (Steam PC/Mac)<br>Roles: Producer, Game Designer and Unity Game Developer.<br>Engine: Unity</p>
 
 ###
 

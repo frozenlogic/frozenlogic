@@ -30,7 +30,7 @@
 
 ###
 
-<a href="[https://www.dropbox.com/scl/fi/k0drinsck1lqpthtsz3sn/Gustavo-Boni-Resume-2025-Rev.02.pdf?rlkey=fcrrlmis5eh7e2xo7j2w58exx&dl=0](https://drive.google.com/file/d/1ddLmEa1rlWg52ErShnfTdzk_Hu2NGGOu/view?usp=sharing)">📄 Download my resume here</a>
+<a href="https://drive.google.com/file/d/1ddLmEa1rlWg52ErShnfTdzk_Hu2NGGOu/view?usp=sharing">📄 Download my resume here</a>
 
 <p align="left">
 I'm Gustavo, a Unity Game Developer and Producer from Brazil with 15+ years of experience crafting engaging games for Steam, console, and mobile platforms. 

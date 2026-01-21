@@ -30,12 +30,16 @@
 
 ###
 
-<a href="https://drive.google.com/file/d/1ddLmEa1rlWg52ErShnfTdzk_Hu2NGGOu/view?usp=sharing">📄 Download my resume here</a>
+<a href="https://drive.google.com/file/d/1q62RDb3RbLcr08bB-PPjalU5gzl7SAIE/view?usp=sharing">📄 Download my resume here</a>
 
 <p align="left">
-I'm Gustavo, a Unity Game Developer and Producer from Brazil with 15+ years of experience crafting engaging games for Steam, console, and mobile platforms. 
+I'm Gustavo, a Unity Game Developer and Producer with 15+ years of experience crafting engaging games for Steam, console, and mobile platforms. 
 I love transforming ideas into polished player experiences — from gameplay design and AI behavior to performance optimization and production management.
 I’ve led multidisciplinary teams using Agile workflows, ensuring games launch on time and exceed expectations.
+</p>
+
+<p align="left">
+<b>Work Authorization:</b> O-1 Visa (Extraordinary Ability) — authorized to work for any U.S. employer.
 </p>
 
 <p align="left">

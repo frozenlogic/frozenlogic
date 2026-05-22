@@ -1,9 +1,9 @@
-<h1 align="left">🎮 Unity Game Developer & Producer | 15+ Years Experience | Shipped 20+ Games on Steam, Console & Mobile</h1>
+<h1 align="left">🎮 Senior Unity Developer | 15+ Years | Shipped 20+ Titles on Mobile, Web, Console & PC</h1>
 
 ###
 
 <p align="left">
-  Passionate about crafting polished, engaging player experiences. I lead teams, design systems, and develop games that connect with millions of players worldwide across Steam, console, and mobile.
+  I architect and ship Unity games end to end — gameplay and systems in C#, performance optimization, CI/CD automation, and multiplayer — with a track record of titles surpassing 1M downloads and EdTech games reaching 250K daily active users.
 </p>
 
 ###
@@ -11,16 +11,18 @@
 <h2 align="left">Key Skills</h2>
 
 <ul align="left">
-  <li>15+ years in game development across PC, console, and mobile</li>
-  <li>Expert in Unity, C#, and gameplay systems</li>
-  <li>Strong background in production and leadership (Agile/Scrum)</li>
-  <li>Experience with multiplayer, AI, and performance optimization</li>
-  <li>Team mentoring and technical direction</li>
+  <li>15+ years shipping 20+ titles across mobile, web, console, and PC</li>
+  <li>Expert in Unity &amp; C# — gameplay/systems architecture, SOLID, modular design, finite state machines</li>
+  <li>Multiplayer &amp; networking with Photon (PUN, Quantum)</li>
+  <li>DevOps &amp; automation: Unity Cloud Build, Addressables, CI/CD, Node.js, AWS CLI</li>
+  <li>Production &amp; leadership: Agile/Scrum, roadmapping, leading cross-functional teams</li>
 </ul>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-Expert-black?logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-Advanced-green?logo=csharp" />
+  <img src="https://img.shields.io/badge/Photon-Multiplayer-purple" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-orange" />
   <img src="https://img.shields.io/badge/Agile-Producer-blue" />
 </p>
 
@@ -30,20 +32,20 @@
 
 ###
 
-<a href="https://drive.google.com/file/d/1q62RDb3RbLcr08bB-PPjalU5gzl7SAIE/view?usp=sharing">📄 Download my resume here</a>
+<a href="Gustavo_Boni_Resume_2026_Master.pdf">📄 View my resume (PDF)</a>
 
 <p align="left">
-I'm Gustavo, a Unity Game Developer and Producer with 15+ years of experience crafting engaging games for Steam, console, and mobile platforms. 
-I love transforming ideas into polished player experiences — from gameplay design and AI behavior to performance optimization and production management.
-I’ve led multidisciplinary teams using Agile workflows, ensuring games launch on time and exceed expectations.
+I'm Gustavo, a Senior Unity Developer with 15+ years architecting and shipping 20+ titles across mobile, web, console, and PC.
+My focus is Unity, C#, and gameplay/systems architecture — with a track record of titles surpassing 1M downloads and EdTech games reaching 250K daily active users.
+I'm hands-on with performance optimization, CI/CD automation, and multiplayer (Photon), and I'm comfortable owning systems end to end, from architecture and live ops to leading small cross-functional teams.
 </p>
 
 <p align="left">
-<b>Work Authorization:</b> O-1 Visa (Extraordinary Ability) — authorized to work for any U.S. employer.
+<b>Work Authorization:</b> O-1B Visa (Extraordinary Ability) — authorized to work for any U.S. employer.
 </p>
 
 <p align="left">
-When I’m not building games, I love prototyping new ideas and exploring design tools — always learning how to make player experiences more meaningful.
+When I'm not building games, I love prototyping new ideas and exploring design tools — always learning how to make player experiences more meaningful.
 </p>
 
 ###
@@ -116,10 +118,23 @@ Engine: Unity<br>
 
 <hr style="margin: 30px 0;">
 
+<p align="left"><b>Big Burger Tower (Steam PC/Mac)</b><br>
+Roles: Producer, Game Designer and Unity Game Developer<br>
+A physics-based stacking game — build the tallest burger and climb the global leaderboard.<br>
+Engine: Unity<br>
+<a href="https://store.steampowered.com/app/3310110/Big_Burger_Tower/">Steam Page</a>
+</p>
+
+<div align="left">
+  <img height="200" src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3310110/header.jpg?t=1741786316" />
+</div>
+
+<hr style="margin: 30px 0;">
+
 <p align="left"><b>Dreamscape (Web/iOS/Android)</b><br>
 Educational game made on Unity and running on WebGL.<br>
 Roles: Lead Game Developer<br>
-Metrics: Top 10 in Educational Games<br>
+Metrics: 250K daily active users (DAU)<br>
 Engine: Unity<br>
 <a href="https://dreamscape.shoelacegaming.com/">Web</a> |
 <a href="https://apps.apple.com/us/app/dreamscapeedu/id1435417296">App Store</a> |
@@ -135,7 +150,7 @@ Engine: Unity<br>
 <p align="left"><b>Dreamseeker Drift (Web/iOS/Android)</b><br>
 Educational Game made on Unity.<br>
 Roles: Producer, Game Designer and Lead Game Developer<br>
-Metrics: Top 10 in Educational Games<br>
+Metrics: 60K daily active users (DAU)<br>
 Engine: Unity<br>
 <a href="https://drift.shoelacegaming.com/">Web</a> |
 <a href="https://apps.apple.com/us/app/dreamseeker-drift/id6448925217">App Store</a> |
@@ -153,7 +168,7 @@ Engine: Unity<br>
 <p align="left"><b>Soccer Penalty Kicks (iOS/Android)</b><br>
 Roles: Producer, Game Designer and Unity Developer<br>
 A casual football (soccer) game.<br>
-Metrics: 1M+ Downloads<br>
+Metrics: 1.5M+ Downloads · Nokia LATAM success case study<br>
 Engine: Unity<br>
 <a href="https://play.google.com/store/apps/details?id=com.frozenlogicstudios.soccerpenaltykicks">Google Play</a>
 </p>
